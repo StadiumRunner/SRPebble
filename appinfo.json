@@ -1,0 +1,17 @@
+{
+  "uuid": "06c3d46d-36b5-4e51-8cb5-9845f42392a6",
+  "shortName": "SRPebble",
+  "longName": "SRPebble",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
